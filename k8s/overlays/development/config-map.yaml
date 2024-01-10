@@ -2,9 +2,7 @@ apiVersion: v1
 data:
   images.json: |-
     [
-      "https://i.imgflip.com/7jqevq.jpg",
-      "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://miro.medium.com/v2/resize:fit:1358/1*GI-td9gs8D5OKZd19mAOqA.png"
     ]
 kind: ConfigMap
 metadata:
